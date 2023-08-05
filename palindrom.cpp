@@ -20,5 +20,5 @@ public:
 
 int main() {
     Solution s1;
-    cout << s1.isPalindrome(1234567899);
+    cout << s1.isPalindrome(111);
 }
