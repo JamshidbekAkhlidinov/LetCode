@@ -19,6 +19,5 @@ public:
 };
 
 int main() {
-    Solution s1;
-    cout << s1.isPalindrome(111);
+    cout << Solution::isPalindrome(111);
 }
